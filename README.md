@@ -1,4 +1,4 @@
-#Workplus exercise_app
+# exercise_app
 
 A new Flutter application.
 
@@ -16,9 +16,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-## Past Works
-
-We have used posenet to detect human posture and develop posture detection algorithms,
-We have extended its use in this application to help track workouts efficiently, We have also 
-added voice functions for a contactless input and output stream.
