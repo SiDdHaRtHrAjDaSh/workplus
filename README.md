@@ -16,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+##past works
+
+We have used this technology to create an application to detect and correct human sitting posture while working from home, Now we have extended this technology to help track workouts and count them for a complete fitness application suite, We have also added voice based interactions to facilitate a contactless input and output stream.
